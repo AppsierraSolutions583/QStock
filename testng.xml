@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.QStock.test.WarehouseTransferOrdersPageTest"/>
+      <class name="com.QStock.test.CompanyInfoPageTest"/>
+      <class name="com.QStock.test.LabelsPageTest"/>
+      <class name="com.QStock.test.ServiceTitanInvoicePageTest"/>
+      <class name="com.QStock.test.IntegrationsServiceTitanPageTest"/>
+      <class name="com.QStock.test.BatchWorkOrderPageTest"/>
+      <class name="com.QStock.test.QstockForPageTest"/>
+      <class name="com.QStock.test.QStockShippingPageTest"/>
+      <class name="com.QStock.test.IntegrationsShopifyNewPageTest"/>
+      <class name="com.QStock.test.ArchivedDataPageTest"/>
+      <class name="com.QStock.test.LanguagePageTest"/>
+      <class name="com.QStock.test.ExternalShipmentNotificationsPageTest"/>
+      <class name="com.QStock.test.IntegrationsShipStationPageTest"/>
+      <class name="com.QStock.test.EcommerceRefundCreditsPageTest"/>
+      <class name="com.QStock.test.FixedAssetReturnsPageTest"/>
+      <class name="com.QStock.test.SalesOrderReturnsPageTest"/>
+      <class name="com.QStock.test.ManageReportsPageTest"/>
+      <class name="com.QStock.test.ShipmentsPageTest"/>
+      <class name="com.QStock.test.InventoryPageTest"/>
+      <class name="com.QStock.test.ServiceTitanPageTest"/>
+      <class name="com.QStock.test.IntegrationsIntacctTest"/>
+      <class name="com.QStock.test.WooCommerceApiPageTest"/>
+      <class name="com.QStock.test.ShopifyDevDNEPageTest"/>
+      <class name="com.QStock.test.SettingWorkOrdersPageTest"/>
+      <class name="com.QStock.test.ExportDataPageTest"/>
+      <class name="com.QStock.test.WorkOrdersPageTest"/>
+      <class name="com.QStock.test.ShipStationPageTest"/>
+      <class name="com.QStock.test.WarehouseLocationsPageTest"/>
+      <class name="com.QStock.test.IntacctPageTest"/>
+      <class name="com.QStock.test.FixedAssetTransfersPageTest"/>
+      <class name="com.QStock.test.ImportDataPageTest"/>
+      <class name="com.QStock.test.ItemPageTest"/>
+      <class name="com.QStock.test.IntegrationsShopifyTestPageTest"/>
+      <class name="com.QStock.test.WebhooksPageTest"/>
+      <class name="com.QStock.test.BatchWorkOrdersPageTest"/>
+      <class name="com.QStock.test.SettingSalesOrdersPageTest"/>
+      <class name="com.QStock.test.importOrderPageTest"/>
+      <class name="com.QStock.test.PaymentsPageTest"/>
+      <class name="com.QStock.test.ShortOrderReAllocationPageTest"/>
+      <class name="com.QStock.test.LoginPageTest"/>
+      <class name="com.QStock.test.PurchaseOrderPageTest"/>
+      <class name="com.QStock.test.QstockNewPageTest"/>
+      <class name="com.QStock.test.VendorsPageTest"/>
+      <class name="com.QStock.test.ShippingMethodPageTest"/>
+      <class name="com.QStock.test.KitsAssembliesComponentsPageTest"/>
+      <class name="com.QStock.test.ManageCustomersPageTest"/>
+      <class name="com.QStock.test.SalesOrderPageTest"/>
+      <class name="com.QStock.test.InventoryItemsPageTest"/>
+      <class name="com.QStock.test.MagentoApiPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

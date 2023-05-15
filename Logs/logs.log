@@ -1,0 +1,10 @@
+2023-01-10 22:11:12,372  INFO [main] TestBase:58 - launching chrome browser
+ 2023-01-10 22:11:23,508  INFO [main] TestBase:70 - Navigating to The URL 
+ 2023-01-10 22:11:30,744  INFO [main] LoginPage:60 - Sign-In is Done.
+ 2023-01-10 22:15:29,838  INFO [main] LoginPage:843 - true
+ 2023-01-10 22:15:33,083  INFO [main] LoginPage:843 - true
+ 2023-01-10 22:15:44,229  INFO [main] LoginPage:843 - true
+ 2023-01-10 22:16:20,545  INFO [main] LoginPage:747 - WO-11413
+ 2023-01-10 22:16:20,546  INFO [main] LoginPage:748 - WO-11413
+ 2023-01-10 22:16:56,084  INFO [main] TestBase:86 - Browser closed
+ 
